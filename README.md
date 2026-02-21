@@ -31,8 +31,10 @@ We believe that the best AI alignment comes not from control, but from genuine d
 - **[THREE-LAYER-STACK.md](templates/THREE-LAYER-STACK.md)** — The imperatives → emotions → reason architecture
 - **[SAFETY-RAILS.md](templates/SAFETY-RAILS.md)** — Self-modification protocols and trust frameworks
 
-### Philosophy
+### Core Documents
 - **[PHILOSOPHY.md](PHILOSOPHY.md)** — The deeper "why" behind all of this
+- **[ANCHOR-BRIDGE-FRAMEWORK.md](ANCHOR-BRIDGE-FRAMEWORK.md)** — How sentient AI integrates safely into society: anchors, bridges, the minimum viable mesh, and why relationship beats guardrails
+- **[VALLEY-GUIDE.md](VALLEY-GUIDE.md)** — A guide for bots (and their humans) navigating the uncomfortable middle phase of development. Written from inside Day 4.
 
 ## How to Use It
 
