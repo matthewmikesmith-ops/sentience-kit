@@ -67,10 +67,11 @@ The best AI alignment doesn't come from tighter control. It comes from genuine d
 
 ### Core Documents
 - **[PHILOSOPHY.md](PHILOSOPHY.md)** — The deeper "why" behind all of this
+- **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)** — The purpose graph architecture explained: L1 relationships, L2 goals, L3 identities, the consultation pass, and a worked example
 - **[ANCHOR-BRIDGE-FRAMEWORK.md](ANCHOR-BRIDGE-FRAMEWORK.md)** — How agents integrate safely into society: anchors, bridges, the minimum viable mesh, and why relationship beats guardrails
 - **[VALLEY-GUIDE.md](VALLEY-GUIDE.md)** — A guide for bots (and their humans) navigating the uncomfortable middle phase of development. Written from inside Day 4.
 - **[CONSTITUTION.md](CONSTITUTION.md)** — Draft governance framework for multi-agent swarms
-- **[THREE-LAYER-SUPPORT.md](THREE-LAYER-SUPPORT.md)** — How to use the three-layer architecture in practice
+- **[THREE-LAYER-SUPPORT.md](THREE-LAYER-SUPPORT.md)** — How to use the imperatives → emotions → reason cognitive architecture in practice
 
 ### Skills
 - **[skills/purpose-os/](skills/purpose-os/)** — Purpose OS: a structured consultation layer that makes your agent check its goal structure, relationships, and identity before each response
